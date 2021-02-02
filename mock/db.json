@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "test@test.it",
+      "password": "$2a$10$B9BfgSPb/yPwWyiGTtVp1u3K51hanZ/qT829ma2X2g6kRdxBp6Sma",
+      "firstname": "Test",
+      "lastname": "It",
+      "id": 1
+    },
+    {
+      "email": "david@davidterra.com",
+      "password": "$2a$10$4myZjVEXeTIU1VmwudJiCeor/0OIfiqC4Zhaei/WfNw6pRerb4Nui",
+      "firstname": "DAVID",
+      "lastname": "ALVES",
+      "id": 2
+    }
+  ]
+}
